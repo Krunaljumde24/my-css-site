@@ -1,0 +1,114 @@
+html{
+    max-width: 100%;
+}
+body{
+    background-color: rgb(174, 255, 228);
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+p{
+    font-size: 25px;
+}
+
+.mountain_img{
+    width: 550px;
+    height: 450;
+}
+.cloud_img{
+    width: 120px;
+    height: 60px;
+}
+#cloud1{
+    position: relative;
+    left: 250px;
+}
+#cloud2{
+    position: relative;
+    right: 250px;
+}
+.main_heading{
+    font-size: 55px;
+}
+h3{
+    font-size: 25px;
+}
+
+.top-container{
+    margin: auto;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+hr{
+    width: 10%;
+    border-top: 6px dotted lightseagreen;
+}
+
+h1,h2,h3,h4{
+    color: #0e49b5  ;
+}
+
+.profile{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.profile img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.profile h2{
+    font-size: 30px;
+}
+
+
+.skill{
+    margin: 50px auto 150px;
+    width: 600px;
+}
+
+.skill-row img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-right: 20px;
+}
+
+.contact{
+    margin: 50px auto 50px;
+    width: 600px;
+    text-align: center;
+}
+.btn{
+    padding: 8px;
+    border-style: none;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #0e49b5 ;
+    border-radius: 10px;
+}
+
+.btn:hover{
+   
+    cursor: pointer;
+    background-color: aliceblue;
+    color: #0e49b5;
+}
+
+
+.footer{
+    background-color: #9fc1ff;
+    text-align: center;
+}
+
+
+.footer img{
+    padding: 20px;
+}
+.footer p{
+    padding-bottom: 15px;
+}
